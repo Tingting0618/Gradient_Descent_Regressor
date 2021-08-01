@@ -1,6 +1,4 @@
-# Gradient_Descent_Regressor
-
-## Gradient Descent
+# Gradient Descent Regressor
 
 ### Main Concept of GD: 
 
