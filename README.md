@@ -28,7 +28,7 @@ y = 4 + 3 * X + np.random.randn(100, 1)
 ![download (1)](https://user-images.githubusercontent.com/44503223/127771210-ee8c87ad-934e-48c4-b333-b293879dd9fd.png)
 
 
-#### 2. Perform Linear Regression using Scikit-Learn
+#### 2. Perform Stochastic GD using Scikit-Learn
 
 The following code runs for maximum 1,000 epochs or until the loss drops by less than 0.001 during one epoch (max_iter=1000, tol=1e-3). It starts with a learning rate of 0.1 (eta0=0.1), using the default learning schedule (different from the preceding one). Lastly, it does not use any regularization (penalty=None; more details on this shortly):
 
